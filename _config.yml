@@ -1,0 +1,19 @@
+title: MEGADAPT
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Adaptación dinámica multi-escalar en megalópolis.
+  Acción Autónoma, Cambio Institucional y Riesgo Socio-Hidrológico en la ciudad de México
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: MegadaptH2O
+github_username:  sostenibilidad-unam
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
