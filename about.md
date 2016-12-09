@@ -61,5 +61,5 @@ México. Así, MEGADAPT pretende servir como un modelo de adaptación al
 cambio climático para los países en desarrollo.
 
 
-<img src="/assets/marco.png">
-<img src="/assets/estudios.png">
+<img src="assets/marco.png">
+<img src="assets/estudios.png">
